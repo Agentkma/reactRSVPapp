@@ -4,7 +4,7 @@
 
 ## Description
 This Single Page App is built with React w/out Redux 
-[![React RSVP Home Page](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/gPg3Pn1xv3k)
+ LIVE DEMO (https://youtu.be/gPg3Pn1xv3k)
 
 ### Features
 - [x] **completed feature**: Add people to RSVP list
